@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
+"""using many tools to identify buttons"""
 
 class TestSelenium(unittest.TestCase):
 
